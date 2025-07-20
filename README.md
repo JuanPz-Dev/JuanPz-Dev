@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Juan Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2>About me</h2>
-Apasionado desarrollador full stack con dos años de experiencia práctica en el desarrollo de aplicaciones web y móviles escalables. Enfocado en crear soluciones eficientes y centradas en el usuario utilizando tecnologías modernas. Actualmente estudio Desarrollo de Software y busco constantemente oportunidades para aprender y crecer en la industria tecnológica.
+Passionate full stack developer with two years of hands-on experience in building scalable web and mobile applications. Focused on creating efficient, user-centered solutions using modern technologies. Currently studying Software Development and constantly seeking opportunities to learn and grow in the tech industry.
 
 ##  My Skills
 <h4> Languages </h4>
